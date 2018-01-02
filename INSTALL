@@ -1,0 +1,17 @@
+
+NOTA: - Verifique o interpretador antes de executar os comandos (Ex: which python);
+      - TALVEZ seja necessario permissao de administrador para 
+        executar os comandos abaixo;
+
+### Desinstalar versao anterior, caso exista.
+pip uninstall pyutilsjr 
+
+### Instalar pyutilsjr
+python setup.py install
+
+# Dependencias do utils
+# Instalacao usando o anaconda
+conda install netcdf4
+
+
+
